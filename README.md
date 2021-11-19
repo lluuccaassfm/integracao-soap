@@ -1,4 +1,4 @@
-# Integracao-soap
+# Integração SOAP
 Aplicação básica para integrar com WebService via SOAP
 
 O Projeto possui um cliente que busca dados do país de um WebService remoto baseado em WSDL usando SOAP.
